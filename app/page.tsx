@@ -283,7 +283,7 @@ export default async function Home() {
                 <FlowStep
                   num="1"
                   colorClass="bg-blue-500"
-                  text="사용자가 브라우저에서 heyjames.ai 주소를 입력합니다"
+                  text="사용자가 브라우저에서 abc.com 주소를 입력합니다"
                 />
                 <FlowStep
                   num="2"
@@ -844,7 +844,7 @@ export default async function Home() {
                   <div className="text-xs text-slate-500">
                     "서울시 강남구 123번지"
                   </div>
-                  <div className="text-sm text-blue-400 mt-1">heyjames.ai</div>
+                  <div className="text-sm text-blue-400 mt-1">abc.com</div>
                 </div>
                 <div className="flex flex-col items-center">
                   <div className="text-4xl mb-3">📍</div>
